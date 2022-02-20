@@ -1,0 +1,2 @@
+# springcloud-config
+public config
